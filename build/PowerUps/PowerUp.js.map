@@ -1,0 +1,1 @@
+{"version":3,"file":"PowerUp.js","sourceRoot":"","sources":["../../src/PowerUps/PowerUp.ts"],"names":[],"mappings":"AACA,OAAO,aAAa,MAAM,oCAAoC,CAAC;AAE/D,MAAM,CAAC,OAAO,OAAgB,OAAQ,SAAQ,aAAa;IAQzD,YAAmB,QAAgB,EAAE,IAAY,EAAE,IAAY;QAC7D,KAAK,CAAC,QAAQ,EAAE,IAAI,EAAE,IAAI,EAAE,CAAC,CAAC,CAAC;IACjC,CAAC;CAQF"}
