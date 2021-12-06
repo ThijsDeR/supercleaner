@@ -1,5 +1,4 @@
 import GameLoop from './GameLoop.js';
-import Level from './Scenes/Level.js';
 import Start from './Scenes/Start.js';
 import UserData from './UserData.js';
 

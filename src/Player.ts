@@ -27,10 +27,7 @@ export default class Player extends GameItem {
    * @returns l
    */
   public isCleaning(): boolean {
-    if (this.keyboard.isKeyDown(KeyListener.KEY_SPACE)) {
-      return true;
-    }
-    return false;
+    return this.keyboard.isKeyDown(KeyListener.KEY_SPACE);
   }
 
   /**
